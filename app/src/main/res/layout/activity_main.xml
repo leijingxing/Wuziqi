@@ -16,7 +16,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="再来一局"
-        android:onClick="Onemoregame"
         android:layout_below="@+id/action_settings"
         android:background="#998c8d88"
         />
