@@ -1,6 +1,5 @@
 package com.example.wuziqi;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -22,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
 	public boolean onCreateOptionsMenu(Menu menu)
 	{
-		getMenuInflater().inflate(R.menu.activity_main, menu);
+		getMenuInflater().inflate(R.menu.meun_main, menu);
 		return true;
 	}
 
