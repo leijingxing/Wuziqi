@@ -4,3 +4,4 @@
 **界面截图**
 <br/>
 <img src="https://github.com/leijingxing/Wuziqi/blob/master/img/img1.jpg"  width="40%" height="40%"/>
+*加入两人对战功能*
